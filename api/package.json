@@ -5,6 +5,10 @@
   "main": "server.js",
   "author": "Muskan136",
   "license": "MIT",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Muskan136/my-mern-chat.git"
